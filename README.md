@@ -1,3 +1,4 @@
+![logo](https://github.com/SIMON41246/SIMON41246/blob/main/mobile%20developer.png)
 <h1 align="center">Hi 👋, I'm MOHAMED EZRIOUIL</h1>
 <h3 align="center">A passionate Mobile Developer</h3>
 
